@@ -11,7 +11,7 @@ class MoviesLoader extends Component {
 
   async componentDidMount() {
     try {
-      const apiKey = process.env.API_KEY;
+      const apiKey = "df208d46482e1688b23f88055413a881" || process.env.API_KEY;
       const url = `https://api.themoviedb.org/3/movie/top_rated?api_key=${apiKey}`;
       this.setState({ loading: true });
       const rsp = await fetch(url);
