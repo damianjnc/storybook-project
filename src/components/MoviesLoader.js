@@ -18,6 +18,7 @@ class MoviesLoader extends Component {
 
       if (rsp.ok) {
         const data = await rsp.json();
+        console.log(data.results);
         this.setState({ movies: data.results });
       } else if (
         rsp.headers.get("Content-Type").startsWith("application/json")
