@@ -2,6 +2,7 @@ import React from "react";
 
 import { storiesOf } from "@storybook/react";
 import { action } from "@storybook/addon-actions";
+import { withKnobs, text } from "@storybook/addon-knobs";
 
 import MovieListItem from "./MovieListItem";
 
@@ -23,7 +24,21 @@ storiesOf("MovieListItem", module)
       <div style={{ backgroundColor: "lightblue" }}>below</div>
     </div>
   ))
+  .addDecorator(withKnobs)
   .add("default", () => (
     <MovieListItem {...pulpFiction} onLearnMore={action("Learn more")} />
   ))
-  .add("No Image", () => <MovieListItem {...pulpFiction} backdrop_path="" />);
+  .add("No Image", () => <MovieListItem {...pulpFiction} backdrop_path="" />)
+  .add("withKnobs", () => {
+    const title = text("Title:", pulpFiction.title);
+    const overview = text("Overview:", pulpFiction.overview);
+    const backdrop_path = text("Backdrop path:", pulpFiction.backdrop_path);
+    return (
+      <MovieListItem
+        title={title}
+        overview={overview}
+        backdrop_path={backdrop_path}
+        onLearnMore={action("Learn more")}
+      />
+    );
+  });

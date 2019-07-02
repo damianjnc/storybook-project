@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","sources":["webpack:///MovieListItem.css"],"sourcesContent":[".movie-list-item {\n    width: 300px;\n    margin: 10px;\n}\n\n.movie-list-item-image {\n    height: 169px;\n}"],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;","sourceRoot":""}

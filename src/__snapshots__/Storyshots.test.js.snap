@@ -1,0 +1,907 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Header default 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <header
+    className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <h6
+        className="MuiTypography-root makeStyles-title-3 MuiTypography-h6"
+      >
+        Top Rated Movies
+      </h6>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Storyshots MovieListItem No Image 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+      }
+    }
+  >
+    above
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-323 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          Pulp Fiction
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+      }
+    }
+  >
+    below
+  </div>
+</div>
+`;
+
+exports[`Storyshots MovieListItem default 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+      }
+    }
+  >
+    above
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-225 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        className="MuiCardMedia-root movie-list-item-image makeStyles-media-226"
+        style={
+          Object {
+            "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg\\")",
+          }
+        }
+        title="Pulp Fiction"
+      />
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          Pulp Fiction
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+      }
+    }
+  >
+    below
+  </div>
+</div>
+`;
+
+exports[`Storyshots MovieListItem withKnobs 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+      }
+    }
+  >
+    above
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-419 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        className="MuiCardMedia-root movie-list-item-image makeStyles-media-420"
+        style={
+          Object {
+            "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg\\")",
+          }
+        }
+        title="Pulp Fiction"
+      />
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          Pulp Fiction
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          A burger-loving hit man, his philosophical partner, a drug-addled gangster&#39;s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+      }
+    }
+  >
+    below
+  </div>
+</div>
+`;
+
+exports[`Storyshots MoviesList When loading 1`] = `
+<div
+  className="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-indeterminate"
+  role="progressbar"
+>
+  <div
+    className="MuiLinearProgress-bar MuiLinearProgress-bar1Indeterminate MuiLinearProgress-barColorPrimary"
+    style={Object {}}
+  />
+  <div
+    className="MuiLinearProgress-bar MuiLinearProgress-bar2Indeterminate MuiLinearProgress-barColorPrimary"
+    style={Object {}}
+  />
+</div>
+`;
+
+exports[`Storyshots MoviesList With error 1`] = `
+<p
+  className="MuiTypography-root MuiTypography-body1 MuiTypography-colorError"
+>
+  Some error message
+</p>
+`;
+
+exports[`Storyshots MoviesList With movies 1`] = `
+<ul
+  className="MuiGridList-root"
+  style={
+    Object {
+      "margin": -2,
+    }
+  }
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-76 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        className="MuiCardMedia-root movie-list-item-image makeStyles-media-77"
+        style={
+          Object {
+            "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/6xKCYgH16UuwEGAyroLU6p8HLIn.jpg\\")",
+          }
+        }
+        title="The Godfather"
+      />
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          The Godfather
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-76 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        className="MuiCardMedia-root movie-list-item-image makeStyles-media-77"
+        style={
+          Object {
+            "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg\\")",
+          }
+        }
+        title="Pulp Fiction"
+      />
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          Pulp Fiction
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-76 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        className="MuiCardMedia-root movie-list-item-image makeStyles-media-77"
+        style={
+          Object {
+            "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/gLbBRyS7MBrmVUNce91Hmx9vzqI.jpg\\")",
+          }
+        }
+        title="The Godfather: Part II"
+      />
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          The Godfather: Part II
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-76 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        className="MuiCardMedia-root movie-list-item-image makeStyles-media-77"
+        style={
+          Object {
+            "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/vnT6HzjLSDrAweHn9xWykb8Ii6T.jpg\\")",
+          }
+        }
+        title="Once Upon a Time in America"
+      />
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          Once Upon a Time in America
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiCard-root  movie-list-item makeStyles-card-76 MuiPaper-rounded"
+  >
+    <button
+      className="MuiButtonBase-root MuiCardActionArea-root"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        className="MuiCardMedia-root movie-list-item-image makeStyles-media-77"
+        style={
+          Object {
+            "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/87hTDiay2N2qWyX4Ds7ybXi9h8I.jpg\\")",
+          }
+        }
+        title="Fight Club"
+      />
+      <div
+        className="MuiCardContent-root"
+      >
+        <h2
+          className="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          Fight Club
+        </h2>
+        <p
+          className="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground "fight clubs" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.
+        </p>
+      </div>
+      <span
+        className="MuiCardActionArea-focusHighlight"
+      />
+    </button>
+    <div
+      className="MuiCardActions-root MuiCardActions-spacing"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Share
+        </span>
+      </button>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Learn More
+        </span>
+      </button>
+    </div>
+  </div>
+</ul>
+`;
+
+exports[`Storyshots MoviesList default 1`] = `
+<ul
+  className="MuiGridList-root"
+  style={
+    Object {
+      "margin": -2,
+    }
+  }
+/>
+`;
